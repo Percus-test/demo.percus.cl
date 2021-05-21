@@ -24,7 +24,6 @@ data-bp-lang="es-CL"
 data-bp-enable-company-signature="false"
 data-bp-ga-id="UA-171035158-2"
 data-bp-auto-fullscreen="true"
-data-bp-recipient-code="ABC-2635"
 
-></script>></script>
+></script>
 </div>
